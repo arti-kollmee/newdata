@@ -1,1 +1,2 @@
-this is my first github file..i am trying to use ...this is a sample file..
+this is my first github file..i am trying to use ...this is a sample file.
+Edit from github ...file edited..
